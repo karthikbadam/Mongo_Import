@@ -1,0 +1,5 @@
+conda create -n crimeviz python=2.7
+source activate crimeviz
+pip install pandas==0.19.2
+pip install pymongo==3.4.0
+pip install titlecase==0.8.2
